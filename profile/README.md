@@ -1,6 +1,4 @@
-# deploysquad-ai
-
-> Build AI agents that work.
+![deploysquad-ai — Build AI agents that work](./banner.png)
 
 At [deploysquad.ai](https://deploysquad.ai), we build open-source tools for AI-native development. Run any model — local or remote. Build any agent.
 
